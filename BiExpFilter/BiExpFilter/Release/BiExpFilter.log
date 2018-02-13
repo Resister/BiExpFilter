@@ -1,0 +1,10 @@
+﻿  BiExpFilter.cpp
+D:\Download\opencv\build\install\include\opencv2/core/mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\Download\opencv\build\install\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\Download\opencv\build\install\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\Download\opencv\build\install\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+BiExpFilter.cpp(29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating code
+  All 69 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BiExpFilter.vcxproj -> D:\Setup\VS2015\Projects\BiExpFilter\Release\BiExpFilter.exe
